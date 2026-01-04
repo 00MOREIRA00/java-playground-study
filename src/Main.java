@@ -1,5 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hellow, World !!");
+
+        String minhaString = "Hellow, World!";
+        int meuInteger = 31;
+
+        System.out.println(minhaString);
+        System.out.println("O Desenvolvedor que está aqui nasceu no dia " + meuInteger);
     }
 }
