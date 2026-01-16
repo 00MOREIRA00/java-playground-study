@@ -1,3 +1,4 @@
+import playground.Arrays;
 import playground.Casting;
 import playground.DataTypes;
 import playground.StringMethods;
@@ -8,5 +9,6 @@ public class Main {
         DataTypes.datatypes();
         Casting.casting();
         StringMethods.stringMethods();
+        Arrays.arrays();
     }
 }

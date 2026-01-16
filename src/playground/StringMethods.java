@@ -5,5 +5,6 @@ public class StringMethods {
         String nome = "Roberto Neto";
 
         System.out.println("Aplicando maiusculo no nome: " + nome.toUpperCase());
+        System.out.println("Aplicando substring: " + nome.substring(3, 7));
     }
 }
